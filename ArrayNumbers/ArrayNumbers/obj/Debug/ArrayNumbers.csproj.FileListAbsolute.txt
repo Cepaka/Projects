@@ -1,0 +1,5 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArrayNumbers\ArrayNumbers\bin\Debug\ArrayNumbers.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArrayNumbers\ArrayNumbers\bin\Debug\ArrayNumbers.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArrayNumbers\ArrayNumbers\bin\Debug\ArrayNumbers.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArrayNumbers\ArrayNumbers\obj\Debug\ArrayNumbers.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArrayNumbers\ArrayNumbers\obj\Debug\ArrayNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraySwap\ArraySwap\bin\Debug\ArraySwap.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraySwap\ArraySwap\bin\Debug\ArraySwap.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraySwap\ArraySwap\bin\Debug\ArraySwap.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraySwap\ArraySwap\obj\Debug\ArraySwap.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraySwap\ArraySwap\obj\Debug\ArraySwap.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraySwap\ArraySwap\obj\Debug\ArraySwap.pdb

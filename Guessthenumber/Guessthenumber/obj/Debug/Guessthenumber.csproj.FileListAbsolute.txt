@@ -1,0 +1,5 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\Guessthenumber\Guessthenumber\bin\Debug\Guessthenumber.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\Guessthenumber\Guessthenumber\bin\Debug\Guessthenumber.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\Guessthenumber\Guessthenumber\bin\Debug\Guessthenumber.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\Guessthenumber\Guessthenumber\obj\Debug\Guessthenumber.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\Guessthenumber\Guessthenumber\obj\Debug\Guessthenumber.pdb
