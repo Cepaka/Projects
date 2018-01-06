@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!\n!\bin\Debug\n!.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!\n!\bin\Debug\n!.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!\n!\bin\Debug\n!.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!\n!\obj\Debug\n!.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!\n!\obj\Debug\n!.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!\n!\obj\Debug\n!.pdb

@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!recursive\n!recursive\bin\Debug\n!recursive.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!recursive\n!recursive\obj\Debug\n!recursive.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!recursive\n!recursive\bin\Debug\n!recursive.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!recursive\n!recursive\bin\Debug\n!recursive.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!recursive\n!recursive\obj\Debug\n!recursive.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\n!recursive\n!recursive\obj\Debug\n!recursive.pdb
